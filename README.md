@@ -6,7 +6,7 @@ A README for Logan's GitHub Repos. This supplements my resume.
 
 A section regarding the projects I've worked on personally and at university.
 
-## Key:
+### Key:
 
 📚 ~ *Projects from university*
 
